@@ -477,6 +477,7 @@ p {
 .company-icon:hover {
   border-color: var(--accent-color);
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 /* Footer */
